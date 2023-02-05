@@ -1,3 +1,10 @@
+<h2 align="center">
+  Bloody-Bypasser was made with
+
+Love ❌ code ✅
+
+</h2>
+
 # Bloody-Bypasser
 A multi-ad-link bypasser (can mass bypass too). Bloody Bypasser uses [bypass.vip](https://bypass.vip) API.
 
